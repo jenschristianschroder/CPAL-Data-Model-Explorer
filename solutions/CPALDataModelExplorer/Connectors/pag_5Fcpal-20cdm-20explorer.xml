@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>254d1a77-6c1e-4195-b7fc-96f795930e0a</connectorid>
+  <description>Common Data Model Metadata Connector</description>
+  <displayname>CPAL CDM Explorer</displayname>
+  <iconbrandcolor>#ffffff</iconbrandcolor>
+  <name>pag_5Fcpal-20cdm-20explorer</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/pag_5Fcpal-20cdm-20explorer_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/pag_5Fcpal-20cdm-20explorer_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/pag_5Fcpal-20cdm-20explorer_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/pag_5Fcpal-20cdm-20explorer_iconblob.Png</iconblob>
+</Connector>

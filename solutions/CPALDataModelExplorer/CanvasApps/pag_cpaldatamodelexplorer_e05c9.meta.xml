@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>pag_cpaldatamodelexplorer_e05c9</Name>
+  <AppVersion>2020-10-22T12:22:27Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.20101.20.0</CreatedByClientVersion>
+  <MinClientVersion>3.20101.20.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"6b03c0a8-dbd0-4963-8489-aa72137b18d6","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.20101.20","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(1, 60, 96, 1)</BackgroundColor>
+  <DisplayName>CPAL Data Model Explorer</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences xsi:nil="true"></AuthorizationReferences>
+  <ConnectionReferences>{"ae4f1019-5c8d-498e-bc95-3fdb4b580580":{"id":"/providers/microsoft.powerapps/apis/shared_pag-5fcpal-20cdm-20explorer-5fe06db0577dadf7e2","displayName":"CPAL CDM Explorer","iconUri":"https://prodapiicons.cdn.powerappscdn.net/20201022t000000z906184831a934ff7b11d5dcf20d13d3c/customconnectoricon.png","dataSources":["MetadataConnector"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","customApiLogicalName":"pag_5Fcpal-20cdm-20explorer","isCustomApiSolutionAware":true}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"logicalname":"pag_5Fcpal-20cdm-20explorer","componenttype":372,"componenttypeplatformname":"connector"}]}</CdsDependencies>
+  <BackgroundImageUri>/CanvasApps/pag_cpaldatamodelexplorer_e05c9_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/pag_cpaldatamodelexplorer_e05c9_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
