@@ -29,21 +29,21 @@ jobs:
         environment-url: ${{ secrets.dev_environment_url }}
         user-name: ${{ secrets.username }}
         password-secret: ${{ secrets.password }}
-        solution-name: CPALSiteInspection
-        solution-output-file: out/exported/CPALSiteInspection.zip
+        solution-name: CPALDataModelExplorer
+        solution-output-file: out/exported/CPALDataModelExplorer.zip
 
     - name: unpack-solution action
       uses: microsoft/powerplatform-actions/unpack-solution@v0
       with:
-        solution-file: out/exported/CPALSiteInspection.zip
-        solution-folder: out/solutions/CPALSiteInspection
+        solution-file: out/exported/CPALDataModelExplorer.zip
+        solution-folder: out/solutions/CPALDataModelExplorer
         solution-type: 'Unmanaged'
         overwrite-files: true
 
     - name: branch-solution, prepare it for a PullRequest
       uses: microsoft/powerplatform-actions/branch-solution@v0
       with:
-        solution-folder: out/solutions/CPALSiteInspection
-        solution-target-folder: solutions/CPALSiteInspection
+        solution-folder: out/solutions/CPALDataModelExplorer
+        solution-target-folder: solutions/CPALDataModelExplorer
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         allow-empty-commit: true
