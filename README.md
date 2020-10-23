@@ -16,3 +16,6 @@ The app uses the PCF-Network-Graph custom control (https://github.com/jenschrist
 * Custom Connector to retreive meta data from CDS
 * Custom Control to visualize data model
 
+# Demo
+
+![CPAL Data Model Explorer](https://github.com/jenschristianschroder/CPAL-Data-Model-Explorer/blob/main/docs/CPAL%20Data%20Model%20Explorer.gif)
