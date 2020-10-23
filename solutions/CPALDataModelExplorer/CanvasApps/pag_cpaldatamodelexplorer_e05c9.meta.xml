@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>pag_cpaldatamodelexplorer_e05c9</Name>
-  <AppVersion>2020-10-22T12:22:27Z</AppVersion>
+  <AppVersion>2020-10-23T12:26:46Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.20101.20.0</CreatedByClientVersion>
   <MinClientVersion>3.20101.20.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"6b03c0a8-dbd0-4963-8489-aa72137b18d6","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.20101.20","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"4cf11e86-6098-410a-8ab3-4009602d3931","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.20101.20","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>rgba(1, 60, 96, 1)</BackgroundColor>

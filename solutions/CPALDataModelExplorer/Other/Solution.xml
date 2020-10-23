@@ -80,6 +80,7 @@
       </Addresses>
     </Publisher>
     <RootComponents>
+      <RootComponent type="66" schemaName="pag_PowerAppsGuy.PCFNetworkGraph" behavior="0" />
       <RootComponent type="300" schemaName="pag_cpaldatamodelexplorer_e05c9" behavior="0" />
       <RootComponent type="372" id="{254d1a77-6c1e-4195-b7fc-96f795930e0a}" schemaName="pag_5Fcpal-20cdm-20explorer" behavior="0" />
     </RootComponents>
